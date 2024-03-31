@@ -1,0 +1,368 @@
+﻿  main.cpp
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(12,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(16,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(21,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(25,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(48,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(48,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(48,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(55,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(55,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(55,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(57,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(57,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(57,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(33,30): warning C4101: 'y3': unreferenced local variable
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\flag.h(34,40): warning C4101: 'y3t': unreferenced local variable
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(39,19): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(39,19): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(40,19): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(40,19): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(41,19): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(41,19): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(58,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(58,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(58,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(60,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(60,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(61,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(61,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(62,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(62,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(65,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(65,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(65,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(67,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(67,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(68,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(68,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(69,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(69,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(75,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(75,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(75,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(102,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(103,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(104,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(105,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(115,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(116,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(117,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(118,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(128,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(129,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(130,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(131,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(150,34): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(155,38): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(167,38): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(173,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(173,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(174,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(174,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(175,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(175,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(176,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(176,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(181,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(181,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(182,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(182,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(183,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(183,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(184,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(184,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(189,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(190,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(198,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(198,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(198,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(199,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(200,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(201,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(202,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(211,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(212,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(213,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(214,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(246,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(246,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(247,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(247,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(248,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(248,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(249,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(249,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(253,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(253,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(254,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(254,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(255,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(255,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(256,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(256,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(260,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(260,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(261,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(261,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(262,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(262,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(263,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(263,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(264,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(264,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(267,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(267,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(267,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(269,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(269,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(270,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(270,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(271,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(271,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(272,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(272,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(273,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(273,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(276,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(276,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(276,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(278,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(278,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(279,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(279,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(280,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(280,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(281,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(281,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(282,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(282,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(284,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(284,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(284,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(286,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(286,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(287,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(287,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(288,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(288,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(289,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(289,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(290,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(290,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(294,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(294,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(295,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(295,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(296,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(296,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(297,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(297,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(298,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(298,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(299,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(299,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(300,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(300,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(301,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(301,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(302,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(302,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(303,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(303,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(318,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(318,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(319,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(319,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(320,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(320,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(321,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(321,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(325,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(325,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(326,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(326,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(327,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(327,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(328,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(328,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(330,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(330,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(330,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(332,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(332,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(333,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(333,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(334,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(334,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(335,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(335,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(337,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(337,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(337,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(339,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(339,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(340,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(340,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(341,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(341,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(342,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(342,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(344,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(344,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(344,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(346,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(346,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(347,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(347,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(348,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(348,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(349,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(349,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(350,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(350,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(351,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(351,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(354,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(354,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(354,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(356,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(356,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(357,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(357,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(358,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(358,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(359,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(359,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(361,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(361,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(361,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(363,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(363,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(364,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(364,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(365,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(365,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(366,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(366,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(382,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(382,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(383,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(383,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(384,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(384,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(385,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(385,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(389,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(389,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(390,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(390,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(391,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(391,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(392,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(392,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(395,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(397,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(397,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(398,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(398,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(399,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(399,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(400,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(400,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(401,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(401,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(403,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(403,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(405,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(405,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(406,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(406,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(407,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(407,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(408,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(408,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(409,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(409,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(412,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(412,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(412,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(414,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(414,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(415,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(415,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(416,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(416,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(417,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(417,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(418,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(418,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(420,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(420,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(420,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(422,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(422,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(423,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(423,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(424,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(424,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(425,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(425,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(426,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(426,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(430,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(430,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(431,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(431,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(432,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(432,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(433,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(433,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(434,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(434,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(435,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(435,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(436,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(436,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(437,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(437,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(438,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(438,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(439,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(439,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(480,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(480,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(483,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(483,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(486,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(487,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(488,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(488,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(489,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(489,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(504,22): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(504,18): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(505,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(505,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(511,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(511,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(539,43): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(546,47): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(546,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(548,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(548,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(548,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(549,34): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(551,43): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(552,44): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(552,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(553,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(553,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(554,37): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(555,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(557,43): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(558,43): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(559,44): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(560,44): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Pallavi S\source\repos\GearUp\GearUp\main.cpp(566,29): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  GearUp.vcxproj -> C:\Users\Pallavi S\source\repos\GearUp\x64\Debug\GearUp.exe
